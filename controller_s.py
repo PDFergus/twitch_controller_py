@@ -54,7 +54,7 @@ class wasd_controler():
             server = 'irc.chat.twitch.tv'
             port = 6667
             nickname = 'WhoopsItsChatBot'
-            token = 'oauth:9d71gzvktcnk84qx8ov7i2uubdvrr8'
+            token = '******************'
             channel = '#whoopsitspete'
             sock = socket.socket()
             sock.connect((server, port))  # connect to irc server
